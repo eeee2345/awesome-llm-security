@@ -118,7 +118,7 @@ Contributions are always welcome. Please read the [Contribution Guidelines](CONT
 - [WhistleBlower](https://github.com/Repello-AI/whistleblower): open-source tool designed to infer the system prompt of an AI agent based on its generated text outputs. ![GitHub Repo stars](https://img.shields.io/github/stars/Repello-AI/whistleblower?style=social)
 - [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection): open-source tool to evaluate prompt injection attacks and defenses on benchmark datasets. ![GitHub Repo stars](https://img.shields.io/github/stars/liu00222/Open-Prompt-Injection?style=social)
 - [Agentic Radar](https://github.com/splx-ai/agentic-radar): Open-source CLI security scanner for agentic workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
-- [Agent Threat Rules (ATR)](https://github.com/Agent-Threat-Rule/agent-threat-rules): open-source detection rules for AI agent threats — 71 regex rules covering prompt injection, tool poisoning, data exfiltration. OWASP Agentic Top 10: 10/10 coverage. ![GitHub Repo stars](https://img.shields.io/github/stars/Agent-Threat-Rule/agent-threat-rules?style=social)
+- [Agent Threat Rules (ATR)](https://github.com/Agent-Threat-Rule/agent-threat-rules): open-source detection rules for AI agent threats — 108 detection rules covering prompt injection, tool poisoning, credential exfiltration, skill supply chain attacks. OWASP 10/10. Shipped in Cisco AI Defense. 53K skills scanned, 0% FP. ![GitHub Repo stars](https://img.shields.io/github/stars/Agent-Threat-Rule/agent-threat-rules?style=social)
 
 ## Articles
 
